@@ -1,0 +1,26 @@
+.squares {
+    width: 200px;
+    height: 400px;
+    border: 10px solid;
+}
+
+.BlueSquare {
+    background-color: #001cff;
+    width: 200px;
+    height: 200px;
+    /*border: 2px solid;*/
+}
+
+.GreenSquare {
+    background-color: #00ff00;
+    width: 200px;
+    height: 200px;
+    /*border: 2px solid;*/
+}
+
+.RedSquare {
+    background-color: #ff0000;
+    width: 200px;
+    height: 200px;
+    /*border: 2px solid;*/
+}
